@@ -17,4 +17,7 @@ I use this [project page](https://github.com/users/goodshort/projects/1) as a tr
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
+```text
+Other   9 mins          █████████████████████████   100.00 %
+```
 <!--END_SECTION:waka-->
