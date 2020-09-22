@@ -19,8 +19,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other      3 hrs 59 mins   █████████████████▓░░░░░░░   71.23 % 
-Java       1 hr 2 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.74 % 
-Log File   33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Other   29 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
