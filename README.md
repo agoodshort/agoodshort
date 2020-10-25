@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on MATLAB apps to increase the team's work efficiency
 - 🌱 I’m currently learning Python, Java and attending a [part study program in Software Development](https://www.goodshort.me/who-am-i/studies#higher-diploma-in-software-development)
 - 📫 How to reach me: adrien.goodshort@gmail.com
-- ⚡ Fun fact: Looking to move to Finland 🇫🇮 
+- ⚡ Fun fact: Just bought a house in Ireland
 
 ### Projects
 
