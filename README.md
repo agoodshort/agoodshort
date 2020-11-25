@@ -19,11 +19,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 November, 2020 - 23 November, 2020
+Week: 17 November, 2020 - 24 November, 2020
 
-Other          5 hrs 56 mins   ████████████████▓░░░░░░░░   66.32 % 
-TypeScript     1 hr 47 mins    █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-HTML           1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-License file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Other          4 hrs 30 mins   ███████████████░░░░░░░░░░   59.93 % 
+TypeScript     1 hr 47 mins    ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+HTML           1 hr 11 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+License file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
 <!--END_SECTION:waka-->
