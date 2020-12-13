@@ -19,9 +19,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 December, 2020 - 11 December, 2020
+Week: 05 December, 2020 - 12 December, 2020
 
-Java    3 hrs 5 mins    ████████████████████▒░░░░   81.32 % 
-Other   42 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.68 % 
+Java    3 hrs 5 mins    ██████████████████████▒░░   89.70 % 
+Other   21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
 ```
 <!--END_SECTION:waka-->
