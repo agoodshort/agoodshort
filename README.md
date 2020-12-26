@@ -19,11 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 December, 2020 - 24 December, 2020
+Week: 18 December, 2020 - 25 December, 2020
 
-Java        11 hrs 25 mins  ███████████████████████░░   92.51 % 
-Batchfile   32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-Text        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-XML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Java         10 hrs 36 mins  ██████████████████████▓░░   90.03 % 
+Batchfile    32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Text         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+XML          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+TypeScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 ```
 <!--END_SECTION:waka-->
