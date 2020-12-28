@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 December, 2020 - 26 December, 2020
+Week: 20 December, 2020 - 27 December, 2020
 
-Java         8 hrs 4 mins    █████████████████▒░░░░░░░   69.76 % 
-Other        1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-HTML         45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-TypeScript   45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-Batchfile    32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Java         3 hrs 46 mins   ███████████▒░░░░░░░░░░░░░   45.72 % 
+Other        1 hr 41 mins    █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+HTML         1 hr 3 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+TypeScript   1 hr 2 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Batchfile    32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 ```
 <!--END_SECTION:waka-->
