@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 December, 2020 - 01 January, 2021
+Week: 26 December, 2020 - 02 January, 2021
 
-TypeScript   7 hrs 37 mins   ██████████▒░░░░░░░░░░░░░░   41.29 % 
-Other        4 hrs 31 mins   ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-Java         3 hrs 4 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-HTML         3 hrs           ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Text         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Java         12 hrs 2 mins   ████████████░░░░░░░░░░░░░   47.97 % 
+TypeScript   6 hrs 59 mins   ███████░░░░░░░░░░░░░░░░░░   27.86 % 
+Other        3 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+HTML         2 hrs 21 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Text         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 <!--END_SECTION:waka-->
