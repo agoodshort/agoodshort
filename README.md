@@ -19,10 +19,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 January, 2021 - 12 January, 2021
-
-Java       4 hrs 56 mins   █████████████████████▓░░░   86.76 % 
-Markdown   30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Text       14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
