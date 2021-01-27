@@ -19,10 +19,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 January, 2021 - 25 January, 2021
+Week: 19 January, 2021 - 26 January, 2021
 
-Markdown     7 mins          ██████████████▒░░░░░░░░░░   57.68 % 
-TypeScript   2 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.88 % 
-Text         2 mins          █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+Markdown     7 mins          ██████████████████░░░░░░░   72.50 % 
+TypeScript   2 mins          ███████░░░░░░░░░░░░░░░░░░   27.50 % 
 ```
 <!--END_SECTION:waka-->
