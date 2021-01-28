@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 January, 2021 - 26 January, 2021
+Week: 20 January, 2021 - 27 January, 2021
 
 Markdown     7 mins          ██████████████████░░░░░░░   72.50 % 
 TypeScript   2 mins          ███████░░░░░░░░░░░░░░░░░░   27.50 % 
