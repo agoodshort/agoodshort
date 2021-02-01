@@ -19,10 +19,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 January, 2021 - 30 January, 2021
+Week: 24 January, 2021 - 31 January, 2021
 
-TypeScript   2 hrs 27 mins   ██████████████████████░░░   87.59 % 
-JSON         18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+TypeScript   2 hrs 27 mins   █████████████▓░░░░░░░░░░░   54.45 % 
+Other        1 hr 44 mins    █████████▓░░░░░░░░░░░░░░░   38.78 % 
+JSON         18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
 ```
 <!--END_SECTION:waka-->
