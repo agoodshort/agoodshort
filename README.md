@@ -19,9 +19,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2021 - 18 February, 2021
+Week: 12 February, 2021 - 19 February, 2021
 
-Other          24 mins         ███████████████▓░░░░░░░░░   62.17 % 
-License file   14 mins         █████████▒░░░░░░░░░░░░░░░   37.83 % 
+Other          34 mins         ████████████████▓░░░░░░░░   66.84 % 
+License file   14 mins         ███████▒░░░░░░░░░░░░░░░░░   29.16 % 
+XML            2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 <!--END_SECTION:waka-->
