@@ -11,8 +11,9 @@
 - Recently graduated from [part study program in Software Development](https://www.goodshort.me/who-am-i/studies#higher-diploma-in-software-development)
 - I can do a bit of everything (java, python, bash, MATLAB...)
 - I wish to work on my projects and develop apps, scripts for people
-- 📫 adrien.goodshort@gmail.com
 - ⚡ Fun fact: Just bought a house in Ireland
+- 🌐 https://goodshort.me
+- 📫 adrien.goodshort@gmail.com
 
 ### 🚧 Projects
 
