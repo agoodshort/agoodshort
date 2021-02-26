@@ -14,7 +14,7 @@
 - 📫 adrien.goodshort@gmail.com
 - ⚡ Fun fact: Just bought a house in Ireland
 
-### Projects
+### 🚧 Projects
 
 - I use this [project page](https://github.com/users/goodshort/projects/1) as a tracker for my 2020 projects and things I have to do.
 - Flying FPV drones
