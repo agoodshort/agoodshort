@@ -20,7 +20,7 @@
 - Flying FPV drones
 - Work on more Software Development projects
 
-### 📊 My week so far
+### 📊 What I've worked on last week
 
 <!--START_SECTION:waka-->
 ```text
