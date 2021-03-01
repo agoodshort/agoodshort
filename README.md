@@ -25,11 +25,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 February, 2021 - 27 February, 2021
+Week: 21 February, 2021 - 28 February, 2021
 
-Other          4 hrs 18 mins   ██████████████░░░░░░░░░░░   56.41 % 
-TypeScript     3 hrs 13 mins   ██████████▓░░░░░░░░░░░░░░   42.29 % 
-License file   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-JSON           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+TypeScript     4 hrs 19 mins   ██████████████▒░░░░░░░░░░   57.24 % 
+Other          3 hrs 7 mins    ██████████▒░░░░░░░░░░░░░░   41.32 % 
+License file   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+JSON           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 <!--END_SECTION:waka-->
