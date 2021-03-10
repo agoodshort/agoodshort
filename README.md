@@ -25,8 +25,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 March, 2021 - 08 March, 2021
+Week: 02 March, 2021 - 09 March, 2021
 
-Other   1 hr 3 mins     █████████████████████████   100.00 % 
+Other   1 hr 10 mins    █████████████████████████   99.72 % 
 ```
 <!--END_SECTION:waka-->
