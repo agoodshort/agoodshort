@@ -25,10 +25,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 March, 2021 - 15 March, 2021
+Week: 09 March, 2021 - 16 March, 2021
 
-Other          2 hrs 20 mins   ███████████████████████▓░   94.93 % 
-License file   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-Text           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Other          2 hrs 8 mins    ███████████████████████▓░   94.65 % 
+License file   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Text           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 <!--END_SECTION:waka-->
