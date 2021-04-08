@@ -25,8 +25,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 March, 2021 - 06 April, 2021
+Week: 31 March, 2021 - 07 April, 2021
 
-License file   3 mins          █████████████████████████   100.00 % 
+License file   3 mins          █████████████████▒░░░░░░░   69.34 % 
+Text           1 min           ███████▓░░░░░░░░░░░░░░░░░   30.66 % 
 ```
 <!--END_SECTION:waka-->
