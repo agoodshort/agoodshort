@@ -25,8 +25,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 April, 2021 - 15 April, 2021
+Week: 09 April, 2021 - 16 April, 2021
 
-Other   11 mins         █████████████████████████   99.52 % 
+Other   11 mins         ████████████░░░░░░░░░░░░░   47.44 % 
+Text    9 mins          ██████████▒░░░░░░░░░░░░░░   41.97 % 
+XML     2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
 ```
 <!--END_SECTION:waka-->
