@@ -25,10 +25,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 April, 2021 - 22 April, 2021
+Week: 16 April, 2021 - 23 April, 2021
 
-JavaScript   1 hr 15 mins    █████████████████████▒░░░   85.83 % 
-Text         9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-XML          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+JavaScript   1 hr 15 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
