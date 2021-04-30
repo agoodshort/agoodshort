@@ -25,9 +25,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 April, 2021 - 28 April, 2021
+Week: 22 April, 2021 - 29 April, 2021
 
-JavaScript   1 hr 15 mins    ██████████████████████▒░░   89.94 % 
-Other        8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Other        8 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
