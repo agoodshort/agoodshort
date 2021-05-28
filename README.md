@@ -25,11 +25,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 May, 2021 - 26 May, 2021
+Week: 20 May, 2021 - 27 May, 2021
 
-Other        11 hrs          ███████████████████████▓░   95.10 % 
-Markdown     28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-TypeScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Other   11 hrs 2 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
