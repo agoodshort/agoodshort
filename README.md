@@ -25,8 +25,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 May, 2021 - 01 June, 2021
+Week: 26 May, 2021 - 02 June, 2021
 
-Other   3 hrs 7 mins    █████████████████████████   100.00 % 
+Other   14 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
