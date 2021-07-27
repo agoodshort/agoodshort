@@ -17,7 +17,7 @@
 
 ### 🚧 Projects
 
-- I use this [project page](https://github.com/users/goodshort/projects/1) as a tracker for my 2020 projects and things I have to do.
+- I use this [project page](https://github.com/users/goodshort/projects/2) as a tracker for my 2021 projects and things I have to do.
 - Flying FPV drones
 - Work on more Software Development projects
 
