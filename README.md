@@ -25,9 +25,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 July, 2021 - 31 July, 2021
+Week: 26 July, 2021 - 01 August, 2021
 
-JavaScript   10 mins         ███████████████░░░░░░░░░░   60.32 % 
-Markdown     7 mins          ██████████░░░░░░░░░░░░░░░   39.68 % 
+JavaScript   10 mins         ███████████░░░░░░░░░░░░░░   44.10 % 
+Markdown     7 mins          ███████▒░░░░░░░░░░░░░░░░░   29.01 % 
+Other        6 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.89 % 
 ```
 <!--END_SECTION:waka-->
