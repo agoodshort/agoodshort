@@ -25,9 +25,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 August, 2021 - 27 August, 2021
+Week: 22 August, 2021 - 28 August, 2021
 
-Other        16 mins         ███████████████████▒░░░░░   77.99 % 
-TypeScript   3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.53 % 
+Other        16 mins         ███████████████████▒░░░░░   77.92 % 
+TypeScript   3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.59 % 
 ```
 <!--END_SECTION:waka-->
