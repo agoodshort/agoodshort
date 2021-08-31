@@ -25,8 +25,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 August, 2021 - 29 August, 2021
-
-TypeScript   3 mins          ████████████████████████▓   98.95 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
