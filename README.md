@@ -4,8 +4,8 @@
 **goodshort/goodshort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### 💼 Work
-- I work at [MathWorks](https://www.mathworks.com/) in the _Installation and Licensing Team_
-- I’m currently working on MATLAB Web apps to increase the team's work efficiency
+- I recently joined [Microsoft](https://www.microsoft.com/) as a _Cloud Solution Architect_
+- I’m currently working on Azure certifications
 
 ### 🌱 Me
 - Recently graduated from [part study program in Software Development](https://www.goodshort.me/who-am-i/studies#higher-diploma-in-software-development)
