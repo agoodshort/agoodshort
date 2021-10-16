@@ -25,12 +25,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 October, 2021 - 14 October, 2021
+Week: 09 October, 2021 - 15 October, 2021
 
-AutoHotkey   2 hrs 56 mins   █████████░░░░░░░░░░░░░░░░   35.66 % 
-PowerShell   2 hrs 49 mins   ████████▓░░░░░░░░░░░░░░░░   34.16 % 
-Markdown     1 hr 38 mins    █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-Other        36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+AutoHotkey   4 hrs 5 mins    ████████▓░░░░░░░░░░░░░░░░   34.39 % 
+Other        2 hrs 56 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.71 % 
+PowerShell   2 hrs 50 mins   ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
+Markdown     1 hr 47 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 ```
 <!--END_SECTION:waka-->
