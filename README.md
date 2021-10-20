@@ -25,7 +25,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 October, 2021 - 18 October, 2021
+Week: 13 October, 2021 - 19 October, 2021
 
 PowerShell   5 hrs 35 mins   ████████▓░░░░░░░░░░░░░░░░   34.01 % 
 AutoHotkey   4 hrs 34 mins   ███████░░░░░░░░░░░░░░░░░░   27.81 % 
