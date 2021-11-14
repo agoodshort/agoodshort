@@ -25,8 +25,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 November, 2021 - 12 November, 2021
+Week: 07 November, 2021 - 13 November, 2021
 
-Other        2 hrs           █████████████████████████   99.47 % 
+Other   1 hr 45 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
