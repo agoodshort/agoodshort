@@ -25,7 +25,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 November, 2021 - 17 November, 2021
+Week: 12 November, 2021 - 18 November, 2021
 
 JavaScript   1 hr 47 mins    █████████░░░░░░░░░░░░░░░░   35.42 % 
 Other        1 hr 45 mins    ████████▓░░░░░░░░░░░░░░░░   34.98 % 
