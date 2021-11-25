@@ -25,9 +25,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 November, 2021 - 23 November, 2021
-
-JavaScript   1 hr 6 mins     █████████████▓░░░░░░░░░░░   54.90 % 
-JSON         54 mins         ███████████▒░░░░░░░░░░░░░   45.10 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
