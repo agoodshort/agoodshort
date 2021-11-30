@@ -25,6 +25,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 23 November, 2021 - 29 November, 2021
+
+PowerShell   48 mins         █████████▓░░░░░░░░░░░░░░░   38.87 % 
+AutoHotkey   39 mins         ███████▓░░░░░░░░░░░░░░░░░   31.14 % 
+Markdown     37 mins         ███████▒░░░░░░░░░░░░░░░░░   29.99 % 
 ```
 <!--END_SECTION:waka-->
