@@ -25,10 +25,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 November, 2021 - 29 November, 2021
+Week: 24 November, 2021 - 30 November, 2021
 
-PowerShell   48 mins         █████████▓░░░░░░░░░░░░░░░   38.87 % 
-AutoHotkey   39 mins         ███████▓░░░░░░░░░░░░░░░░░   31.14 % 
-Markdown     37 mins         ███████▒░░░░░░░░░░░░░░░░░   29.99 % 
+Markdown     2 hrs 12 mins   █████████████░░░░░░░░░░░░   52.55 % 
+PowerShell   1 hr 18 mins    ███████▓░░░░░░░░░░░░░░░░░   31.32 % 
+AutoHotkey   40 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
 ```
 <!--END_SECTION:waka-->
