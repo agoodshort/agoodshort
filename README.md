@@ -25,12 +25,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 December, 2021 - 09 December, 2021
+Week: 04 December, 2021 - 10 December, 2021
 
-Other        5 hrs 45 mins   ███████▒░░░░░░░░░░░░░░░░░   29.26 % 
-TypeScript   5 hrs 35 mins   ███████░░░░░░░░░░░░░░░░░░   28.40 % 
-PowerShell   4 hrs 37 mins   ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-Markdown     1 hr 54 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-AutoHotkey   1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Other        4 hrs 54 mins   ███████▓░░░░░░░░░░░░░░░░░   30.76 % 
+PowerShell   4 hrs 37 mins   ███████▒░░░░░░░░░░░░░░░░░   28.95 % 
+TypeScript   2 hrs 47 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Markdown     1 hr 50 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+AutoHotkey   1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
 ```
 <!--END_SECTION:waka-->
