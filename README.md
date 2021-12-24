@@ -25,12 +25,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 December, 2021 - 22 December, 2021
+Week: 17 December, 2021 - 23 December, 2021
 
-Other        1 hr 3 mins     ███████████░░░░░░░░░░░░░░   43.61 % 
-Markdown     26 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.08 % 
-JSON         24 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-TypeScript   21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-YAML         10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Other   7 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
