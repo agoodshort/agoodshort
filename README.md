@@ -25,8 +25,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 January, 2022 - 20 January, 2022
+Week: 15 January, 2022 - 21 January, 2022
 
-Pug     13 mins         ████████████████████████▓   98.95 % 
+Other        42 mins         ██████████▓░░░░░░░░░░░░░░   42.14 % 
+Markdown     29 mins         ███████▒░░░░░░░░░░░░░░░░░   29.39 % 
+TypeScript   18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.16 % 
+JSON         10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
 ```
 <!--END_SECTION:waka-->
