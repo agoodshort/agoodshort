@@ -25,10 +25,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 January, 2022 - 31 January, 2022
+Week: 26 January, 2022 - 01 February, 2022
 
-TypeScript   2 hrs 39 mins   ████████████████████░░░░░   79.59 % 
-Other        35 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Markdown     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+AutoHotkey   4 hrs 44 mins   █████████░░░░░░░░░░░░░░░░   36.63 % 
+TypeScript   2 hrs 39 mins   █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+Markdown     2 hrs 21 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.17 % 
+PowerShell   1 hr 21 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+YAML         1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
 ```
 <!--END_SECTION:waka-->
