@@ -25,7 +25,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 January, 2022 - 01 February, 2022
+Week: 27 January, 2022 - 02 February, 2022
 
 AutoHotkey   4 hrs 44 mins   █████████░░░░░░░░░░░░░░░░   36.63 % 
 TypeScript   2 hrs 39 mins   █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
