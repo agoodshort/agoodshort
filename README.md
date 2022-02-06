@@ -25,11 +25,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 January, 2022 - 04 February, 2022
+Week: 30 January, 2022 - 05 February, 2022
 
-AutoHotkey   4 hrs 44 mins   ███████████▓░░░░░░░░░░░░░   46.91 % 
-Markdown     2 hrs 15 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.38 % 
-YAML         1 hr 44 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.17 % 
-PowerShell   1 hr 21 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+AutoHotkey   4 hrs 44 mins   ███████████▒░░░░░░░░░░░░░   45.68 % 
+Markdown     2 hrs 15 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.79 % 
+YAML         1 hr 44 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.72 % 
+PowerShell   1 hr 21 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Other        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 ```
 <!--END_SECTION:waka-->
