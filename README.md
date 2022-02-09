@@ -25,12 +25,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 February, 2022 - 07 February, 2022
+Week: 02 February, 2022 - 08 February, 2022
 
-AutoHotkey   4 hrs 44 mins   ██████████▓░░░░░░░░░░░░░░   42.98 % 
-Markdown     2 hrs 15 mins   █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-YAML         1 hr 44 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-PowerShell   1 hr 21 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Other        55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Other        55 mins         ████████████████▒░░░░░░░░   65.03 % 
+YAML         29 mins         ████████▓░░░░░░░░░░░░░░░░   34.78 % 
 ```
 <!--END_SECTION:waka-->
