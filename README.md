@@ -25,12 +25,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-From: 17 February, 2022 - To: 23 February, 2022
+From: 18 February, 2022 - To: 24 February, 2022
 
-PowerShell   4 hrs 13 mins   ██████████▒░░░░░░░░░░░░░░   41.79 % 
-Other        2 hrs 16 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.51 % 
-AutoHotkey   1 hr 55 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.97 % 
-YAML         1 hr 14 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Markdown     26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+PowerShell   5 hrs 41 mins   █████████▓░░░░░░░░░░░░░░░   38.88 % 
+YAML         2 hrs 58 mins   █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+AutoHotkey   2 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+Other        2 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Markdown     1 hr 16 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
 ```
 <!--END_SECTION:waka-->
