@@ -26,11 +26,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 February 2022 - To: 02 March 2022
+From: 25 February 2022 - To: 03 March 2022
 
-YAML         4 hrs 29 mins   ██████████▓░░░░░░░░░░░░░░   43.30 %
-PowerShell   2 hrs 12 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.20 %
-Other        2 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   19.77 %
+YAML         2 hrs 45 mins   ████████████▒░░░░░░░░░░░░   48.75 %
+Other        2 hrs 2 mins    █████████░░░░░░░░░░░░░░░░   36.03 %
 ```
 
 <!--END_SECTION:waka-->
