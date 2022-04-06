@@ -26,9 +26,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 March 2022 - To: 04 April 2022
+From: 29 March 2022 - To: 05 April 2022
 
-Other        4 hrs 41 mins   ██████████████████▒░░░░░░   73.81 %
+Other        6 hrs 19 mins   ███████████████████▒░░░░░   77.56 %
 ```
 
 <!--END_SECTION:waka-->
