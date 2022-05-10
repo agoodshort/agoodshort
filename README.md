@@ -26,9 +26,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 May 2022 - To: 08 May 2022
+From: 02 May 2022 - To: 09 May 2022
 
-Other      29 mins         █████████████████████▓░░░   86.81 %
+AutoHotkey   43 mins         ████████████████▓░░░░░░░░   66.05 %
+Markdown     12 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.82 %
+YAML         9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 %
+CSHTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
