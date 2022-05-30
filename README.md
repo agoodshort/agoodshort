@@ -26,13 +26,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 May 2022 - To: 28 May 2022
+From: 22 May 2022 - To: 29 May 2022
 
-Markdown     1 hr 16 mins    ███████████░░░░░░░░░░░░░░   43.44 %
-PowerShell   56 mins         ████████░░░░░░░░░░░░░░░░░   32.24 %
-AutoHotkey   23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
-YAML         12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Other        1 hr 55 mins    ███████▓░░░░░░░░░░░░░░░░░   30.31 %
 ```
 
 <!--END_SECTION:waka-->
