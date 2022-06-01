@@ -17,7 +17,7 @@
 
 ### 🚧 Projects
 
-- I use this [project page](https://github.com/users/goodshort/projects/2) as a tracker for my 2021 projects and things I have to do.
+- I use this [project page](https://github.com/users/goodshort/projects/2) as a tracker for my 2022 projects and things I have to do.
 - [Flying FPV drones](https://www.youtube.com/watch?v=PdOF5c4RF18&list=PLhU-As_kQhM6L6iwidza6sSdfxEybA7VZ)
 - Working on a [Homebridge plugin](https://github.com/goodshort/homebridge-wled-preset) to control LEDs
 
