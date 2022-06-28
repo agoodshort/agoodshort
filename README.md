@@ -26,11 +26,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 June 2022 - To: 26 June 2022
+From: 20 June 2022 - To: 27 June 2022
 
-AutoHotkey   32 mins         █████████░░░░░░░░░░░░░░░░   36.00 %
-Markdown     30 mins         ████████▓░░░░░░░░░░░░░░░░   34.63 %
-Other        19 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.52 %
+AutoHotkey   22 mins         ████████████░░░░░░░░░░░░░   48.18 %
+Markdown     21 mins         ███████████▓░░░░░░░░░░░░░   46.17 %
+PowerShell   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+JavaScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
