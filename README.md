@@ -26,7 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 27 June 2022 - To: 04 July 2022
+
+Terraform   45 mins         ███████████████████████▒░   92.87 %
+Bash        2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+Other       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
