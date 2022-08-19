@@ -26,9 +26,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 August 2022 - To: 16 August 2022
+From: 11 August 2022 - To: 18 August 2022
 
-Other   0 secs          █████████████████████████   100.00 %
+Python      1 hr 13 mins    ██████████████████░░░░░░░   72.26 %
+Markdown    19 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.81 %
+Batchfile   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+Bash        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+Other       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
