@@ -26,7 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 August 2022 - To: 03 September 2022
+From: 28 August 2022 - To: 04 September 2022
 
 JSON       5 hrs 56 mins   ████████████░░░░░░░░░░░░░   48.32 %
 Markdown   5 hrs 35 mins   ███████████▒░░░░░░░░░░░░░   45.40 %
