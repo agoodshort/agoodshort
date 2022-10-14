@@ -26,14 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 October 2022 - To: 12 October 2022
-
-JavaScript   45 mins         █████████▓░░░░░░░░░░░░░░░   38.82 %
-Bash         27 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.30 %
-TypeScript   20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.52 %
-Markdown     14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
-YAML         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
