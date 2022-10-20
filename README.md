@@ -26,10 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 October 2022 - To: 18 October 2022
+From: 12 October 2022 - To: 19 October 2022
 
-JSON         2 hrs 23 mins   ████████▓░░░░░░░░░░░░░░░░   34.56 %
-Other        1 hr 45 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.30 %
+YAML         3 hrs 13 mins   ███████▓░░░░░░░░░░░░░░░░░   30.77 %
+JSON         2 hrs 33 mins   ██████░░░░░░░░░░░░░░░░░░░   24.36 %
+Other        2 hrs 16 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.66 %
 ```
 
 <!--END_SECTION:waka-->
