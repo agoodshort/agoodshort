@@ -26,7 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 November 2022 - To: 11 November 2022
+From: 06 November 2022 - To: 12 November 2022
 
 YAML         16 hrs 22 mins  ██████████▓░░░░░░░░░░░░░░   43.21 %
 JSON         5 hrs 52 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.49 %
