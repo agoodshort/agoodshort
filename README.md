@@ -4,8 +4,8 @@
 **goodshort/goodshort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### 💼 Work
-- I recently joined [Microsoft](https://www.microsoft.com/) as a _Cloud Solution Architect_
-- I’m currently working on passing all Azure certifications related to Architect and Development roles
+- I recently joined [Great National Hotels](https://www.greatnationalhotels.com/) as a _Software Developer_
+- I am actively working on [Revanista](https://www.revanista.com/), Revenue Management solution
 
 ### 🌱 Me
 - Graduated from [part study program in Software Development](https://www.goodshort.me/who-am-i/studies#higher-diploma-in-software-development) in 2021
