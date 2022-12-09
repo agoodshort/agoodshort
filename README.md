@@ -10,10 +10,9 @@
 ### 🌱 Me
 - Graduated from [part study program in Software Development](https://www.goodshort.me/who-am-i/studies#higher-diploma-in-software-development) in 2021
 - I try to have a broad knowledge of coding (java, typescript, python, bash, PowerShell, MATLAB...)
-- I'm looking forward to work on new projects and deployment
+- Continuously looking to improve, automate workflows to only focus on what matters
 - ⚡ Fun fact: Just bought a house in Ireland
 - 🌐 https://www.goodshort.me
-- 📫 adrien.goodshort@gmail.com
 
 ### 🚧 Projects
 
