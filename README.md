@@ -25,11 +25,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 December 2022 - To: 16 December 2022
+From: 11 December 2022 - To: 17 December 2022
 
-YAML         15 hrs 42 mins  ████████████░░░░░░░░░░░░░   48.02 %
-TypeScript   5 hrs 47 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
-Other        3 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+YAML         15 hrs 42 mins  ████████████▓░░░░░░░░░░░░   50.07 %
+TypeScript   5 hrs 47 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.45 %
+Markdown     2 hrs 21 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+Other        2 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
 ```
 
 <!--END_SECTION:waka-->
