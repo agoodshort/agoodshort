@@ -25,11 +25,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 December 2022 - To: 06 January 2023
+From: 01 January 2023 - To: 07 January 2023
 
-JavaScript    8 hrs 31 mins   ██████████▒░░░░░░░░░░░░░░   41.43 %
-Lua           4 hrs 52 mins   ██████░░░░░░░░░░░░░░░░░░░   23.70 %
-Other         3 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
+JavaScript    8 hrs 31 mins   ██████████▒░░░░░░░░░░░░░░   41.46 %
+Lua           4 hrs 52 mins   ██████░░░░░░░░░░░░░░░░░░░   23.72 %
+Other         3 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.14 %
 ```
 
 <!--END_SECTION:waka-->
