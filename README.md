@@ -32,3 +32,5 @@ Other         3 hrs 19 mins   ████░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+[![goodshort's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=goodshort)](https://github.com/anuraghazra/github-readme-stats)
