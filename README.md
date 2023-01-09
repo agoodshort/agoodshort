@@ -1,4 +1,4 @@
-### Who am I?
+## 👋 Who am I?
 
 <!--
 **goodshort/goodshort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,18 +19,20 @@
 - [Flying FPV drones](https://www.youtube.com/watch?v=PdOF5c4RF18&list=PLhU-As_kQhM6L6iwidza6sSdfxEybA7VZ)
 - Working on a [Homebridge plugin](https://github.com/goodshort/homebridge-wled-preset) to control LEDs
 
-### 📊 What I've worked on last week
+## 📊 Stats
 
-<!--START_SECTION:waka-->
+### GitHub
 
-```text
-From: 01 January 2023 - To: 07 January 2023
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=goodshort&show_icons=true" />
+</a>
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goodshort&layout=compact" />
+</a>
 
-JavaScript    8 hrs 31 mins   ██████████▒░░░░░░░░░░░░░░   41.46 %
-Lua           4 hrs 52 mins   ██████░░░░░░░░░░░░░░░░░░░   23.72 %
-Other         3 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.14 %
-```
+### Coding
 
-<!--END_SECTION:waka-->
-
-[![goodshort's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=goodshort)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://wakatime.com/@goodshort">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=goodshort" />
+</a>
