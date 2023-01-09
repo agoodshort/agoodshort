@@ -23,16 +23,10 @@
 
 ### GitHub
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=goodshort&show_icons=true" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=goodshort&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goodshort&layout=compact" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodshort&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Coding
 
-<a href="https://wakatime.com/@goodshort">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=goodshort" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=goodshort)](https://wakatime.com/@goodshort)
