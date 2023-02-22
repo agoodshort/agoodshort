@@ -19,14 +19,6 @@
 - [Flying FPV drones](https://www.youtube.com/watch?v=PdOF5c4RF18&list=PLhU-As_kQhM6L6iwidza6sSdfxEybA7VZ)
 - Working on a [Homebridge plugin](https://github.com/goodshort/homebridge-wled-preset) to control LEDs
 
-## 📊 Stats
+## 📊 Statistics
 
-### GitHub
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=goodshort&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodshort&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Coding
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=goodshort)](https://wakatime.com/@goodshort)
+🔎 [GitHub profile overview and Coding stats of the week](./STATS.md) 🔎
