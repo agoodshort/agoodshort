@@ -21,4 +21,4 @@
 
 ## 📊 Statistics
 
-🔎 [GitHub profile overview and Coding stats of the week](./STATS.md) 🔎
+[🔎 GitHub profile overview and Coding stats of the week](./STATS.md)
