@@ -1,4 +1,4 @@
-[⏪ Back to my profile](https://github.com/goodshort)
+[⏪ Back to my profile](https://github.com/agoodshort)
 
 ## 📊 Statistics
 
@@ -12,4 +12,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=goodshort)](https://wakatime.com/@goodshort)
 
-[⏪ Back to my profile](https://github.com/goodshort)
+[⏪ Back to my profile](https://github.com/agoodshort)
