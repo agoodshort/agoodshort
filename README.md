@@ -3,7 +3,7 @@
 ### 💼 Work
 
 - I work at [Great National Hotels](https://www.greatnationalhotels.com/) as a `Software Developer`
-- I am actively working on [Revanista](https://www.revanista.com/), a Revenue Management solution for hotels and BnB
+- I am actively working on [Revanista](https://www.revanista.com/), a Hotel Revenue Management Web Application
 - Previously `Cloud Solution Architect` at Microsoft ☁️
 
 ### 🌱 My previous experiences
@@ -14,13 +14,18 @@
     - setup HPC clusters
     - deploy scalable web-applications
     - Secure and enhance cloud usage
-- 🌐 [www.goodshort.me](https://www.goodshort.me)
 
-### 🔨 Ongoing Projects
+### 🔨 Tools
+
+- [Neovim](https://neovim.io/), Visual Studio Code
+- React, Node.js
+- AWS, Azure
+- Arch Linux ([Manjaro Sway](https://github.com/manjaro-sway/manjaro-sway))
+
+### 🚧 Ongoing Projects
 
 - [Flying FPV drones](https://www.youtube.com/watch?v=PdOF5c4RF18&list=PLhU-As_kQhM6L6iwidza6sSdfxEybA7VZ)
-- Slowly shifting from `vscode` to `nvim` as my daily editor
-- Continuously looking to improve and automate my workflows so that I can focus on what **really matters!**
+- Continuously looking to improve and automate my workflows so that I can focus on what **really matters**!
 - Get my [DotFiles repo](https://github.com/goodshort/dotfiles) fully automated using [chezmoi](https://chezmoi.io)
 
 ### 💡 To-Do List
