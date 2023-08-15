@@ -2,13 +2,13 @@
 
 ### 💼 Work
 
-- I am the `Lead Software Developer` for [Revanista](https://www.revanista.com/), a Hotel Revenue Management Web Application
+- I am `Lead Software Developer` for [Revanista](https://www.revanista.com/) (Hotel Revenue Management Web Application)
 - Previously `Cloud Solution Architect` at Microsoft ☁️
 - [My professional GitHub profile](https://github.com/abiencourt)
 
 ### 🌱 My previous experiences
 
-- Graduated from [part study program in Software Development](https://www.gmit.ie/higher-diploma-in-science-in-software-development) in 2021
+- Graduated from a [part study program in Software Development](https://www.gmit.ie/higher-diploma-in-science-in-software-development) in 2021
 - Worked with hundreds of companies:
     - deploy softwares/services across IT infrastructure
     - setup HPC clusters
@@ -25,7 +25,7 @@
 ### 🚧 Ongoing Projects
 
 - [Flying FPV drones](https://www.youtube.com/watch?v=PdOF5c4RF18&list=PLhU-As_kQhM6L6iwidza6sSdfxEybA7VZ)
-- Continuously looking to improve and automate my workflows so that I can focus on what **really matters**!
+- Improving and automating workflows to only focus on what **matters**!
 - Get my [DotFiles repo](https://github.com/goodshort/dotfiles) fully automated using [chezmoi](https://chezmoi.io)
 
 ### 💡 To-Do List
