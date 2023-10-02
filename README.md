@@ -31,8 +31,8 @@
 ### 💡 To-Do List
 
 - [ ] Home automation LED project in *standby*, need to find time to re-install LEDs at home to continue working on it [Homebridge plugin](https://github.com/goodshort/homebridge-wled-preset)
-- [ ] Review my [project page](https://github.com/users/goodshort/projects/2). I am now using [habitica](https://habitica.com/) to track tasks (way more fun 😜)
-- [ ] "Previous experience" should be on LinkedIn and GitHub should only show the fun part
+- [ ] Review my [project page](https://github.com/users/goodshort/projects/2) and clean up [habitica](https://habitica.com/)
+- [ ] "Previous experience" should be on LinkedIn and professional LinkedIn. GitHub should only show the fun part
 - [ ] Deploy goodshort.me as a github page
 - [ ] Deploy the stats on my own on Vercel
 
