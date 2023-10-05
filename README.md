@@ -6,22 +6,14 @@
 - Previously `Cloud Solution Architect` at Microsoft ☁️
 - [My professional GitHub profile](https://github.com/abiencourt)
 
-### 🌱 My previous experiences
-
-- Graduated from a [part study program in Software Development](https://www.gmit.ie/higher-diploma-in-science-in-software-development) in 2021
-- Worked with hundreds of companies:
-    - deploy softwares/services across IT infrastructure
-    - setup HPC clusters
-    - deploy scalable web-applications
-    - Secure and enhance cloud usage
-
 ### 🔨 Tools
 
-- [Neovim](https://neovim.io/), Visual Studio Code
-- React, Node.js
-- AWS, Azure
-- Arch Linux ([Manjaro Sway](https://github.com/manjaro-sway/manjaro-sway))
+- [Neovim](https://neovim.io/)
+- Arch Linux _btw_ 😎
+- The more TUI, the better 💻
+- `hjkl` ⌨️
 
+ 
 ### 🚧 Ongoing Projects
 
 - [Flying FPV drones](https://www.youtube.com/watch?v=PdOF5c4RF18&list=PLhU-As_kQhM6L6iwidza6sSdfxEybA7VZ)
