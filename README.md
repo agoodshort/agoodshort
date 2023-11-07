@@ -24,10 +24,10 @@
 
 - [ ] Home automation LED project in *standby*, need to find time to re-install LEDs at home to continue working on it [Homebridge plugin](https://github.com/goodshort/homebridge-wled-preset)
 - [ ] Review my [project page](https://github.com/users/goodshort/projects/2) and clean up [habitica](https://habitica.com/)
-- [ ] "Previous experience" should be on LinkedIn and professional LinkedIn. GitHub should only show the fun part
-- [ ] Deploy goodshort.me as a github page
 - [ ] Deploy the stats on my own on Vercel
+- [ ] Should I combine my professional and personal GitHub account?
 
 ## 📊 Statistics
 
-[🔎 GitHub profile overview and Coding stats of the week](./STATS.md)
+- [🔎 GitHub and Coding stats](./STATS.md)
+- [💡 Awesome Open-Source Contributions](./CONTRIBUTIONS.md)
