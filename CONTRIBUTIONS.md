@@ -1,3 +1,5 @@
+[⏪ Back to my profile](https://github.com/agoodshort)
+
 ## Meaningful Open Source Interactions
 
 ### 📝 Contributions
@@ -11,3 +13,5 @@
 ### 💬 Discussions
 
 - [Topgrade | sudo permission management](https://github.com/topgrade-rs/topgrade/discussions/372#discussioncomment-7196964) and [PR](https://github.com/topgrade-rs/topgrade/pull/565)
+
+[⏪ Back to my profile](https://github.com/agoodshort)
