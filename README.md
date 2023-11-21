@@ -1,4 +1,4 @@
-## Adrien Biencourt
+## 👋 Who am I?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adrien-biencourt/)
 [![GitHub Work Account](https://img.shields.io/badge/GitHub_Work_Account-grey?style=for-the-badge&logo=github)](https://github.com/abiencourt)
@@ -24,11 +24,14 @@
 
 ### 💡 To-Do List
 
-- [ ] Review my [project page](https://github.com/users/agoodshort/projects/2) and clean up [habitica](https://habitica.com/)
 - [ ] Deploy the stats on my own on Vercel
 
 ## 📊 Statistics
 
 - [🔎 GitHub and Coding stats](./STATS.md)
 - [💡 Awesome Open-Source Contributions](./CONTRIBUTIONS.md)
-              
+  
+## ⚙️ Configs
+
+[![Neovim](https://img.shields.io/badge/Neovim-black?style=for-the-badge&logo=neovim)](https://github.com/agoodshort/)
+[![Dotfiles](https://img.shields.io/badge/Dotfiles-black?style=for-the-badge&logo=gnubash)](https://github.com/agoodshort/dotfiles)
