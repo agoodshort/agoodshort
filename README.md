@@ -25,6 +25,7 @@
 ### 💡 To-Do List
 
 - [ ] Deploy the stats on my own on Vercel
+- [ ] Slowly migrating my personal config and meaningful repos to my professional GitHub
 
 ## 📊 Statistics
 
