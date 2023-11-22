@@ -16,11 +16,7 @@
 
 - Improving and automating workflows to only focus on what **matters**!
 - Get my [dotfiles](https://github.com/goodshort/dotfiles) and [Neovim config](https://github.com/agoodshort/nvim) fully automated using [chezmoi](https://chezmoi.io)
-
-### 💡 To-Do List
-
-- [ ] Deploy the stats on my own on Vercel
-- [ ] Slowly migrating my personal config and meaningful repos to my professional GitHub
+- Refurnished my 2 GitHub accounts
 
 ## 📊 Statistics
 
