@@ -1,9 +1,14 @@
 [⏪ Back to my profile](https://github.com/agoodshort)
 
+---
+
 ## Meaningful Open Source Interactions
+
+_Hover on link for more info_
 
 ### 📝 Contributions
 
+- [conform.nvim | feat: add path in ConformInfo](https://github.com/stevearc/conform.nvim/pull/244)
 - [hardtime.nvim | Feat: Only display a notification once](https://github.com/m4xshen/hardtime.nvim/pull/25)
 - [dashboard-nvim | Feat: added additional plugins info when using lazy.nvim](https://github.com/nvimdev/dashboard-nvim/pull/370)
 - [neo-tree.nvim | Fix: split from buffer view opens blank buffer](https://github.com/nvim-neo-tree/neo-tree.nvim/pull/1004)
@@ -13,5 +18,7 @@
 ### 💬 Discussions
 
 - [Topgrade | sudo permission management](https://github.com/topgrade-rs/topgrade/discussions/372#discussioncomment-7196964) and [PR](https://github.com/topgrade-rs/topgrade/pull/565)
+
+---
 
 [⏪ Back to my profile](https://github.com/agoodshort)
