@@ -11,7 +11,7 @@
 
 - I am `Lead Software Developer` for [Revanista](https://www.revanista.com/) (Hotel Revenue Management Web Application)
 - Previously `Cloud Solution Architect` at Microsoft ☁️
- 
+
 ### 🚧 Ongoing Projects
 
 - Improving and automating workflows to only focus on what **matters**!
@@ -20,8 +20,42 @@
 
 ## 📊 Statistics
 
-- [🔎 GitHub and Coding stats](./STATS.md)
-- [💡 Awesome Open-Source Contributions](./CONTRIBUTIONS.md)
+<details>
+    <summary>GitHub Stats</summary>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=agoodshort&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agoodshort&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+<details>
+    <summary>Coding Stats</summary>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=agoodshort)](https://wakatime.com/@agoodshort)
+
+</details>
+
+## 📝 Open-Source Contributions
+
+<details>
+    <summary>🎨 PRs</summary>
+
+- [conform.nvim | feat: add path in ConformInfo](https://github.com/stevearc/conform.nvim/pull/244)
+- [hardtime.nvim | Feat: Only display a notification once](https://github.com/m4xshen/hardtime.nvim/pull/25)
+- [dashboard-nvim | Feat: added additional plugins info when using lazy.nvim](https://github.com/nvimdev/dashboard-nvim/pull/370)
+- [neo-tree.nvim | Fix: split from buffer view opens blank buffer](https://github.com/nvim-neo-tree/neo-tree.nvim/pull/1004)
+- [telescope-http.nvim | Feat: Open url based on OS](https://github.com/barrett-ruth/telescope-http.nvim/pull/1)
+- [package-info.nvim | Feat: Add nvim-notify support](https://github.com/vuki656/package-info.nvim/pull/143)
+
+</details>
+
+<details>
+    <summary>💬 Discussions</summary>
+
+- [Topgrade | sudo permission management](https://github.com/topgrade-rs/topgrade/discussions/372#discussioncomment-7196964) and [PR](https://github.com/topgrade-rs/topgrade/pull/565)
+
+</details>
 
 &nbsp;
 
