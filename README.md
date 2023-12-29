@@ -1,6 +1,7 @@
 <h1 align="center">👋 Who am I?</h1>
 
 <p align="center">
+ <a href="https://app.pluralsight.com/profile/abiencourt"><img src="https://img.shields.io/badge/Pluralsight-black?style=for-the-badge&logo=pluralsight" /></a>
  <a href="https://www.linkedin.com/in/adrien-biencourt/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin" /></a>
  <a href="https://github.com/abiencourt"><img src="https://img.shields.io/badge/GitHub_Work_Account-grey?style=for-the-badge&logo=github" /></a>
  <a href="https://www.youtube.com/@agoodshort"><img src="https://img.shields.io/badge/YouTube-CD201F?style=for-the-badge&logo=youtube" /></a>
@@ -21,7 +22,7 @@
 ## 📊 Statistics
 
 <details>
-    <summary>GitHub Stats</summary>
+    <summary>📈 GitHub Stats</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=agoodshort&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -30,7 +31,7 @@
 </details>
 
 <details>
-    <summary>Coding Stats</summary>
+    <summary>🧑‍💻 Coding Stats</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=agoodshort)](https://wakatime.com/@agoodshort)
 
