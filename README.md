@@ -17,8 +17,8 @@
 ### 🚧 Ongoing Projects
 
 - Improving and automating workflows to only focus on what **matters**!
-- Get my [dotfiles](https://github.com/goodshort/dotfiles) and [Neovim config](https://github.com/agoodshort/nvim) fully automated using [chezmoi](https://chezmoi.io)
-- Clean up my 2 GitHub accounts
+- Get my [dotfiles](https://github.com/goodshort/dotfiles) and [Neovim config](https://github.com/agoodshort/nvim) repos to look super neat ✨
+- Spend time on [Pluralsight](https://app.pluralsight.com/profile/abiencourt) to learn new skills (e.g. Rust 🦀)
 
 ## 📊 Statistics
 
