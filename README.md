@@ -3,7 +3,7 @@
 <p align="center">
  <a href="https://app.pluralsight.com/profile/abiencourt"><img src="https://img.shields.io/badge/Pluralsight-black?style=for-the-badge&logo=pluralsight" /></a>
  <a href="https://www.linkedin.com/in/adrien-biencourt/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin" /></a>
- <a href="https://github.com/abiencourt"><img src="https://img.shields.io/badge/GitHub_Work_Account-grey?style=for-the-badge&logo=github" /></a>
+ <a href="https://github.com/abiencourt"><img src="https://img.shields.io/badge/Work_GitHub_Account-grey?style=for-the-badge&logo=github" /></a>
  <a href="https://www.youtube.com/@agoodshort"><img src="https://img.shields.io/badge/YouTube-CD201F?style=for-the-badge&logo=youtube" /></a>
  <a href="https://www.reddit.com/user/agoodshort"><img src="https://img.shields.io/badge/Reddit-black?style=for-the-badge&logo=reddit" /></a>
  <a href="https://crowdin.com/profile/agoodshort"><img src="https://img.shields.io/badge/Crowdin-30660f?style=for-the-badge&logo=crowdin" /></a>
